@@ -20,7 +20,7 @@ Se destacan dos perfile:
   Se prevé la posibilidad de Registro, pero sólo orientado a los empleados del Poder Judicial.
   
   Prueba:
- Usuario: willy@gmail.com
+ Usuario: ara@gmail.com
  contraseña_ 1234
  
  Se prevé control de los datos ingresados por el usuario (formato de correo electrónico, password, etc) como así tambien control de vistas según haya iniciado o no sesión.
