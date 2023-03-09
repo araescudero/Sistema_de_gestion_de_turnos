@@ -54,7 +54,7 @@ Two profiles stand out:
   The possibility of Registration is foreseen, but only aimed at employees of the Judiciary.
   
   Test:
- User: willy@gmail.com
+ User: ara@gmail.com
  password_ 1234
  
  Control of the data entered by the user (email format, password, etc.) is foreseen, as well as control of views depending on whether or not they have logged in.
